@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Weidong Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Weidong
+last_name: Wang
 
 # Status emoji
 status:
@@ -24,8 +24,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: College of Computer Science, Beijing University of Technology
+    url: https://english.bjut.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,19 +52,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: Beijing Jiaotong University 
+    date_start: 2011-09-01
+    date_end: 2016-10-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Software Engineering
+    institution: Beijing Jiaotong University 
+    date_start: 2009-09-01
+    date_end: 2011-07-31
     summary: |
       GPA: 3.8/4.0
 
@@ -74,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2000-09-01
+    date_end: 2004-07-31
     summary: |
       GPA: 3.4/4.0
       
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weidong WANG received his Ph.D. degree in Computer Science from Beijing Jiaotong University in 2016. From Jan 2013 to Jan 2015, he was a visiting scholar in the department of computer  science, University of Wyoming. During that time, from Jun 2014 to Aug 2014, he was a visiting  scholar in the Lawrence Livermore National Laboratory, LLNL. Currently, he is a lecturer at the  Faculty of Information Technology, Beijing University of Technology. His research interests mainly  include hardware/software performance optimization in large-scale parallel environments. For  the aspect of design, he focuses on using software and hardware co-design and Software Engineering (SE) methods such as component service composition and QoS evaluation to  improve the performance of systems. For the aspect of implementation, he works on optimizing software and hardware performance, enhancing resilience and improving service-oriented architecture.
