@@ -73,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Automation Engineering
+    institution: Qiqihar University 
     date_start: 2000-09-01
     date_end: 2004-07-31
     summary: |
@@ -85,12 +85,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Scholar
+    company_name: Department of Computer Science, University of Wyoming
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2013-01-10
+    date_end: 2015-01-09
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Weidong WANG received his Ph.D. degree in Computer Science from Beijing Jiaotong University in 2016. From Jan 2013 to Jan 2015, he was a visiting scholar in the department of computer  science, University of Wyoming. During that time, from Jun 2014 to Aug 2014, he was a visiting  scholar in the Lawrence Livermore National Laboratory, LLNL. Currently, he is a lecturer at the  Faculty of Information Technology, Beijing University of Technology. His research interests mainly  include hardware/software performance optimization in large-scale parallel environments. For  the aspect of design, he focuses on using software and hardware co-design and Software Engineering (SE) methods such as component service composition and QoS evaluation to  improve the performance of systems. For the aspect of implementation, he works on optimizing software and hardware performance, enhancing resilience and improving service-oriented architecture.
+Weidong WANG received his Ph.D. degree in Computer Science from Beijing Jiaotong University in 2016. From Jan 2013 to Jan 2015, he was a visiting scholar in the department of computer  science, University of Wyoming. During that time, from Jun 2014 to Aug 2014, he was a visiting  scholar in the Lawrence Livermore National Laboratory, LLNL  Currently, he is a lecturer at the  Faculty of Information Technology, Beijing University of Technology. His research interests mainly  include hardware/software performance optimization in large-scale parallel environments. For  the aspect of design, he focuses on using software and hardware co-design and Software Engineering (SE) methods such as component service composition and QoS evaluation to  improve the performance of systems. For the aspect of implementation, he works on optimizing software and hardware performance, enhancing resilience and improving service-oriented architecture.
