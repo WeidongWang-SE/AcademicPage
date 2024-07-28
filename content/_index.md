@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am responsible for the Intelligent Computing and Software Engineering Innovation Laboratory, where we focus on developing complex intelligent software systems. Our work spans machine learning, deep learning, and large language model technologies. Currently, our team has developed several applications, including a smart education assistant APP, a campus social platform software, and a power trading market prediction software. We also have several graduate and undergraduate students working on software code quality enhancement, reliability, and MSR (Mining Software Repositories).
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Please feel free to reach out to us for collaboration opportunities 😃
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
