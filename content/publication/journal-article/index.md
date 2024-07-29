@@ -76,7 +76,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 
 ---
-title: "Intelligent Visual Representation for Java Code Data in the Field of Software Engineering Based on Remote Sensing Techniques"
+title: "Intelligent Visual Representation for Java Codesed on Remote Sensing Techniques"
 authors:
 - Dian Li
 - Weidong Wang*
