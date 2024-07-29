@@ -2,12 +2,12 @@
 title: "Intelligent Visual Representation for Java Code Data in the Field of Software Engineering Based on Remote Sensing Techniques"
 authors:
 - Dian Li
-- Weidong Wang
+- Weidong Wang*
 - Yang Zhao
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: "doi.org/10.3390/electronics12245009"
 
 # Schedule page publish date (NOT publication's date).
