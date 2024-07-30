@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "OMP-Engineer: Bridging Syntax Analysis and In-Context Learning for Efficient Automated OpenMP Parallelization"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-05-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-06T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,24 +14,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv 2024"
+publication_short: "arXiv 2024"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In advancing parallel programming, particularly with OpenMP, the shift towards NLP-based methods marks a significant innovation beyond traditional S2S tools like Autopar and Cetus. These NLP approaches train on extensive datasets of examples to efficiently generate optimized parallel code, streamlining the development process. This method's strength lies in its ability to swiftly produce parallelized code that runs efficiently. However, this reliance on NLP models, without direct code analysis, can introduce inaccuracies, as these models might not fully grasp the nuanced semantics of the code they parallelize. We build OMP-Engineer, which balances the efficiency and scalability of NLP models with the accuracy and reliability of traditional methods, aiming to enhance the performance of automating parallelization while navigating its inherent challenges.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This reliance on NLP models, without direct code analysis, can introduce inaccuracies, as these models might not fully grasp the nuanced semantics of the code they parallelize. We build OMP-Engineer, which balances the efficiency and scalability of NLP models with the accuracy and reliability of traditional methods, aiming to enhance the performance of automating parallelization while navigating its inherent challenges.
 
 tags:
-- Large Language Models
+- OpenMP
+- Parallel Computing 
+- Automation
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: https://arxiv.org/abs/2405.03215
+url_pdf: https://arxiv.org/pdf/2405.03215
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
