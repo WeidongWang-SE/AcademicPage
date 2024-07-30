@@ -47,8 +47,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.computer.org/csdl/proceedings-article/frse/2023/011100a263/1Qm5WcfxCVO'
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/lidiancracy/JDataMine'
+url_dataset: 'https://pan.baidu.com/s/1BUs1YPRMsfaoOaBxsEizag?pwd=php8'
 url_poster: ''
 url_project: ''
 url_slides: ''
