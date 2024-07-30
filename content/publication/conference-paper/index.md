@@ -6,7 +6,7 @@ title: 'Intelligent Java Dataset Construction and Visualization Evaluation for R
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Dian Li
-  - admin*
+  - Weidong Wang*
   - Yang Zhao
 
 # Author notes (optional)
