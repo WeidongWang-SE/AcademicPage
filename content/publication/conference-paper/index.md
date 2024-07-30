@@ -1,23 +1,24 @@
 ---
-title: 'An example conference paper'
+title: 'Intelligent Java Dataset Construction and Visualization Evaluation for Reliable Software Development'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Dian Li
+  - admin*
+  - Yang Zhao
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2023-06-16T00:00:00Z'
+doi: '10.1109/FRSE58934.2023.00043'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-06-16T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,17 +26,18 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *International Conference on the Frontiers of Robotics and Software Engineering*
+publication_short: In *FRSE 2023*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: As big data and artificial intelligence continue to gain importance, the reliable quality of datasets has be-come a crucial factor in algorithm performance and result reliability. However, many datasets lack standardization and quality control, which can lead to potential issues in software development and data analysis. In this paper, we propose an objective dataset evaluation algorithm that utilizes multiple metrics, including unified naming conventions and document annotations, for statistical analysis and filtering to ensure reliable data. Our approach scores datasets using reasonable criteria, and we use visualization techniques inspired by remote sensing to compare and visualize reliable dataset quality. Our research demonstrates that our evaluation method is feasible and can assist software developers in enhancing the reliable quality and efficiency of software development by improving dataset quality. Our study concentrates on datasets obtained from GitHub using a web crawler, and our approach establishes a standardized technique for evaluating reliable dataset quality.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Our research demonstrates that our evaluation method is feasible and can assist software developers in enhancing the reliable quality and efficiency of software development by improving dataset quality. Our study concentrates on datasets obtained from GitHub using a web crawler, and our approach establishes a standardized technique for evaluating reliable dataset quality.
 
-tags:
-  - Large Language Models
-
+tags: 
+  - Dataset quatity 
+  - Remote sensing
+  - Visualization
 # Display this page in the Featured widget?
 featured: true
 
@@ -44,14 +46,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://www.computer.org/csdl/proceedings-article/frse/2023/011100a263/1Qm5WcfxCVO'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
