@@ -45,8 +45,9 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-7378-2766
-  - icon: assets/media/icons/wechat.svg
+  - icon: brands/weixin
     url: https://scholar.google.com/
+
 interests:
   - Artificial Intelligence in Software Engineering
   - Mining Software Repositories (MSR) 
