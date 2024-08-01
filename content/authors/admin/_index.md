@@ -47,6 +47,8 @@ profiles:
     url: https://orcid.org/0000-0002-7378-2766
   - icon: brands/weixin
     url: https://scholar.google.com/
+  - icon: custom/wechat.svg
+    url: https://scholar.google.com/
 
 interests:
   - Artificial Intelligence in Software Engineering
